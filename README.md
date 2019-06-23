@@ -16,3 +16,5 @@ A simple way to do this is by taking letters, transforming them into numbers by 
 8, 1, 20, 27, 1, 18, 5, 27, 19, 5, 16, 5, 18, 1, 20, 5, 4, 27, 23, 9, 20, 8, 27, 19, 16, 1, 3, 5, 19)
 
 WebSite:  https://jacobedelman.gitbooks.io/hsctf-3-practice-problems/content/text2numbers-problem.html
+
+Website That Helped me: https://quipqiup.com/
